@@ -10,9 +10,9 @@ Note:
 
 from __future__ import unicode_literals
 
-__author__ = 'Sotiris Papadopoulos'
-__contact__ = 'ytubedlg@gmail.com'
-__projecturl__ = 'http://mrs0m30n3.github.io/youtube-dl-gui/'
+__author__ = 'Andres Vargas'
+__contact__ = 'zodman@gmail.com'
+__projecturl__ = 'http://downloadvideo.online'
 
 __appname__ = 'Youtube-DLG'
 __license__ = 'UNLICENSE'
@@ -23,6 +23,14 @@ __descriptionfull__ = '''A cross platform front-end GUI of the popular
 youtube-dl written in wxPython'''
 
 __licensefull__ = '''
+
+Based on youtube-dl-gui:
+
+__author__ = 'Sotiris Papadopoulos'
+__contact__ = 'ytubedlg@gmail.com'
+__projecturl__ = 'http://mrs0m30n3.github.io/youtube-dl-gui/'
+
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
